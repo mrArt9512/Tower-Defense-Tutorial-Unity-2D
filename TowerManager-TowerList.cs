@@ -24,19 +24,19 @@ public class MachineTower : MonoBehaviour //MonoBehaviour允许在游戏对象�
     public float towerAttackRange = 2.0f; //防御塔的基础攻击范围
 }
 
-    //辅助型防御塔：
+    //辅助型防御塔
     //防御塔类型
     //基本属性
 
-    //功能型防御塔：
+    //功能型防御塔
     //防御塔类型
     //基本属性
 
-    //高级防御塔：
+    //高级防御塔
     //防御塔类型
     //基本属性
 
-    //传说级防御塔：
+    //传说级防御塔
     //防御塔类型
     //基本属性
 
