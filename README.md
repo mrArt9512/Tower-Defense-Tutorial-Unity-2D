@@ -4,4 +4,5 @@
 微信：Pikachu950419
 QQ：1913801731
 目前正在一边学习，一边开发游戏，我愿意把我学到的一切代码知识分享到这里。
+Discord游戏群：discord.com/invite/mpnuhvog
 QQ开发游戏群：1031820977 【Neon Nexon Defense 霓虹核心塔防-测试群】
